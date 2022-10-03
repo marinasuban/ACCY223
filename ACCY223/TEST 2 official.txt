@@ -1,0 +1,70 @@
+Report to the managing director of Wellington Cyber 
+Profit maximisation analysis; comparing the benefits and disadvantages of outsourcing.
+
+
+Executive Summary
+Given GNK constraint (machine hours) GNK should allocate its limited resources based on contribution margin in ascending order. CWH-2 has the highest contribution margin per unit of constraint with $455, followed by CM-3 with $220 and CS-1 with $173.75.
+Wellington Cyber has the capacity to make 400 units of CWH-2 and 300 units of CM-3 - meeting expected demand for CWH-2 and CM-3. However, GNK can only make 150 out of 350 units of of the expected demand for CS-1. 
+Without outsourcing the expected profit is $164,250. Wellington Cyber return on sales is 9.52% [(164,250/1 726 000) Appendix 1] this is acceptable - however it can be improved.
+Without outsourcing, Wellington cyber may face other threats to its reputation such as loss of goodwill which may effect demand and thus profits. 
+With outsourcing, Wellington Cyber may be able to retain if not increase its profits and sustain its reputation with its customer. There are risk posed by outsourcing CS-1, however these can be mitigated and controlled by safeguards.
+It is recommended that GNK outsource DS1
+
+Main report
+
+Introduction (optional)
+Wellington Cyber’s innovative design and high-quality differentiation strategy has increased demand for its gaming computers and hence expansion plans are on the way. However, the budgeting process for the coming year has revealed that forecast demand may outstrip current production capacity (machine capacity of the company is currently 3,200 hours per annum) and management needs to address this short-term problem.
+
+
+Contribution for the machine hour constraint  
+Table 1: Calculation of Contribution per machine hour
+
+Table 1 shows the contribution margin per unit machine hour for computer CS-1, CWH-2 and CM-3. 
+The contribution margin allows Wellington Cyber to maximise profits by determining which computer is most profitable and thus allocate its limited resources (machine hours) accordingly.
+CWH-2 has the highest contribution margin per unit of constraint with $455, followed by CM-3 with $220 and CS-1 with $173.75. This means that Wellington Cyber  should manufacture as much units of CWH-2 as possible, followed by CM-3 and then CS-1
+
+Production plan
+Table 2: Production Plan - No Outsourcing
+
+
+
+
+Table 2 shows the number of units that can be produced under the constrain of machine hours (3200 hours) and the expected profits generated from this level of production.
+Wellington Cyber has the capacity to make 400 units of CWH-2 and 300 units of CM-3 - meeting expected demand for CWH-2 and CM-3.
+However, GNK can only make 150 out of 350 units of of the expected demand for CS-1. 
+With this production plan, GNK’s expected profit totals $164,250.
+
+Reservations Wellington Cyber may have about accepting this plan (no outsourcing allowed)
+Wellington Cyber can meet less than half of CS-1 demand (42.86% (150/350)). This may mean that they lose a significant amount of CS-1 buyers to competitors as they cannot meet the demand of this market.  As a result Wellington cyber may risk losing those customer’s permanently making the effort to mitigate capacity constraint redundant. Additionally Wellington Cyber may experience a decrease in sales and thus expected profits.
+
+Wellington Cyber’s customers (e.g retailers) may want to purchase all three types of computers. Not having CS-1 consistently available may discourage manufacturers from purchasing from Wellington Cyber as it would be inconvenient to purchase drive shafts from multiple supplier. This decreases sales and thus expected profits.
+
+Expected profits ($164,250) from the production plan are relatively low compared to sales. Wellington Cyber return on sales is 9.52% [(164,250/1 726 000) Appendix 1] - As Wellington Cyber as not met the demand from the market, return on sales have the potential to increase sales and thus profits.
+If Wellington Cyber has the capacity to meet the market demand for the additional 200 units of $173.75 each Wellington Cyber would generate an additional $34,750 in incremental contributions. 
+
+Without outsourcing Wellington Cyber will not be able to meet customers demand. This may negatively effect Wellington Cyber’s relationship with their customer which will reflect badly on their reputation. Additionally, by not outsourcing Wellington Cyber is not maximising their sales as they are not meeting customer demand - outsourcing may help increase profits.
+
+
+Relevant cost 
+Relevant cost are those cost which only change as a direct result of a decision (avoidable), hence they are the cost assessed when making decisions - past cost and committed cost are irrelevant as they will/have been incurred regardless of the decision made (unavoidable).
+For Wellington Cyber relevant cost to consider when considering to outsource would be the difference between the price offered by the manufacturer and total avoidable cost of producing CS-1 such as materials and labour cost omitting unavoidable cost such as fixed overheads. This is because regardless of Wellington Cyber’s decision to out outsource, Wellington cyber would still have to incur fixed overheads hence it is not relevant to Wellington cyber’s decision to outsource.
+
+One major advantage and two disadvantages of outsourcing.
+As it is a significant concern for the managing director to uphold Wellington cyber’s reputation 
+one major advantage of outsourcing is that Wellington cyber would be able to meet the expected demand for computers, this mitigates potential reputation issues and ensures that Wellington cyber retains its customers from competitors.
+
+However there are disadvantages to outsourcing
+Suppliers may not produce computers at the same quality as Wellington cyber, as Wellington cyber is known for their high quality products this may negatively effect Wellington cyber differentiation strategy. A possible safeguard to reduce this risk is to implement additional quality checks by performing regular inspections of the computers manufactured by the supplier to ensure that the outsourced CS-1 are of Wellington cyber standard - this will likely result in additional expenses which will reduce the profitability of CS-1.
+
+Additionally, suppliers may not be able to consistently supply CS-1 computer’s in a timely matter (late delivery etc.) This may damage Wellington cyber’s reputation as it would negatively effect’s a consumer’s relationship with the company. A possible safeguard would be for Wellington cyber to find multiple suppliers for CS-1 to mitigate this problem. However, sourcing an additional supplier will likely increase expenses thus reducing the profitability of CS-1
+
+	
+Conclusion
+It is recommend that Wellington cyber outsource CS-1, this is because this option allows Wellington cyber to meet demand, retain/improve its reputation, and potentially increase its expected profits. Whereas not out sourcing CS-1 means that Wellington cyber is putting their reputation at risk which may mean that when Wellington cyber expand demand may have decreased to the point that the expansion becomes redundant
+Additionally, the risk/threats created by outsourcing can be controlled or mitigated by safeguards whereas the risk/threats created by not outsourcing cannot be controlled or mitigated.
+
+
+APPENDIX 1
+Total Sales Revenue=(UnitsCS1*PriceCS1)+(UnitsCWH-2*PriceCWH-2)+(UnitsCM-3*PriceCM-3)
+Total Sales Revenue=(350*1400)+(400*1215)+(300*2500)
+Total Sales Revenue= 1 726 000
